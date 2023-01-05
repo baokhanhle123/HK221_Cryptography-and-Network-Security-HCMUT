@@ -1,0 +1,12 @@
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\bin\Debug\S-DES.exe.manifest
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\bin\Debug\S-DES.application
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\bin\Debug\S-DES.exe
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\obj\x86\Debug\S_DES.Form1.resources
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\obj\x86\Debug\S_DES.Properties.Resources.resources
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\obj\x86\Debug\S-DES.csproj.GenerateResource.Cache
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\obj\x86\Debug\S-DES.exe.manifest
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\obj\x86\Debug\S-DES.application
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\obj\x86\Debug\S-DES.exe
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\obj\x86\Debug\S-DES.pdb
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\bin\Debug\S-DES.pdb
+D:\HK2 162 - Gắng mỗi ngày một ít\Đồ họa máy tính - Computer Graphics\Visual C++\WindowsFormsApplication1\S-DES\obj\x86\Debug\S-DES.csprojResolveAssemblyReference.cache
